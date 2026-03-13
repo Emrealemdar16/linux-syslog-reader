@@ -1,0 +1,4 @@
+Mar 13 20:50:01 systemd[1]: Starting System Logging Service...
+Mar 13 20:50:02 kernel: [ 0.000000] Linux version 5.4.0 (gcc version 9.3.0)
+Mar 13 20:51:15 sshd[1234]: Accepted publickey for root from 192.168.1.10 port 22
+Mar 13 20:52:00 sudo: pam_unix(sudo:session): session opened for user root
